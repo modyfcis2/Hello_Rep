@@ -98,6 +98,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Automation2.os">
+      <SubType>Component</SubType>
+      <Id>Automator-8DA248A4EF62656</Id>
+    </Compile>
     <Folder Include="Properties\" />
     <Folder Include="Public Automations" />
     <Compile Include="Automation1.os">
